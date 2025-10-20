@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  🇬🇧 <a href="#english-version">Switch to English</a>
+  🇬🇧 <a href="https://github.com/zhatrus/about_me_en/blob/main/README.md#-hi-im-zakhar">Switch to English</a>
 </p>
 
 ---
